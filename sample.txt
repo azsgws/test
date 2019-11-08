@@ -1,3 +1,4 @@
 hoge
 hello world.
 
+good morning.
