@@ -1,3 +1,5 @@
 hoge
 hello world.
-year
+good morning.
+good afternoon.
+good evening.
